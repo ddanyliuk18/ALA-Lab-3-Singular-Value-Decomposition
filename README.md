@@ -274,11 +274,13 @@ User preferences:
 
 Creates two 3D scatter plots:
 - **User space**
-  <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/6b178dbb-a2ab-4e9e-bf84-cda0540b3508" />
+
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/6b178dbb-a2ab-4e9e-bf84-cda0540b3508" />
 
 First 20 users plotted in 3-factor latent space
 
 - **Movie space**
+
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/d0d33732-10ee-4f7a-9b05-5688399c51f0" />
 
 All movies plotted in 3-factor latent space
